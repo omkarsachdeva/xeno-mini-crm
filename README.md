@@ -2,7 +2,7 @@
 
 A comprehensive CRM platform built for the Xeno SDE Internship Assignment 2025, featuring customer segmentation, campaign delivery, and AI-powered insights.
 
-![Xeno CRM Dashboard](https://via.placeholder.com/800x400?text=Xeno+CRM+Dashboard)
+
 
 ## 🚀 Features
 
